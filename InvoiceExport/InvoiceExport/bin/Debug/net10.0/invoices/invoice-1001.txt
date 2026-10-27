@@ -1,0 +1,6 @@
+SwiftBite Invoice
+-----------------
+Order:      1001
+Restaurant: Zooba
+Customer:   Amr khaled <amr@gmail.com>
+Total:      £240.00
