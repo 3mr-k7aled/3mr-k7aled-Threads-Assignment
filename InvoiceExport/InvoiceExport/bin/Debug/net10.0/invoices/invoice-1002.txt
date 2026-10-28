@@ -1,0 +1,6 @@
+SwiftBite Invoice
+-----------------
+Order:      1002
+Restaurant: Koshary El Tahrir
+Customer:   Ali omar <ali@yahoo.com>
+Total:      £180.50

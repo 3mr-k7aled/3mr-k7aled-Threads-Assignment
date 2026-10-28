@@ -1,0 +1,15 @@
+C:\Users\de\Desktop\InvoiceExport\InvoiceExport\bin\Debug\net10.0\InvoiceExport.exe
+C:\Users\de\Desktop\InvoiceExport\InvoiceExport\bin\Debug\net10.0\InvoiceExport.deps.json
+C:\Users\de\Desktop\InvoiceExport\InvoiceExport\bin\Debug\net10.0\InvoiceExport.runtimeconfig.json
+C:\Users\de\Desktop\InvoiceExport\InvoiceExport\bin\Debug\net10.0\InvoiceExport.dll
+C:\Users\de\Desktop\InvoiceExport\InvoiceExport\bin\Debug\net10.0\InvoiceExport.pdb
+C:\Users\de\Desktop\InvoiceExport\InvoiceExport\obj\Debug\net10.0\InvoiceExport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\de\Desktop\InvoiceExport\InvoiceExport\obj\Debug\net10.0\InvoiceExport.AssemblyInfoInputs.cache
+C:\Users\de\Desktop\InvoiceExport\InvoiceExport\obj\Debug\net10.0\InvoiceExport.AssemblyInfo.cs
+C:\Users\de\Desktop\InvoiceExport\InvoiceExport\obj\Debug\net10.0\InvoiceExport.csproj.CoreCompileInputs.cache
+C:\Users\de\Desktop\InvoiceExport\InvoiceExport\obj\Debug\net10.0\InvoiceExport.dll
+C:\Users\de\Desktop\InvoiceExport\InvoiceExport\obj\Debug\net10.0\refint\InvoiceExport.dll
+C:\Users\de\Desktop\InvoiceExport\InvoiceExport\obj\Debug\net10.0\InvoiceExport.pdb
+C:\Users\de\Desktop\InvoiceExport\InvoiceExport\obj\Debug\net10.0\InvoiceExport.genruntimeconfig.cache
+C:\Users\de\Desktop\InvoiceExport\InvoiceExport\obj\Debug\net10.0\ref\InvoiceExport.dll
+C:\Users\de\Desktop\InvoiceExport\InvoiceExport\obj\Debug\net10.0\InvoiceE.1D38E910.Up2Date
