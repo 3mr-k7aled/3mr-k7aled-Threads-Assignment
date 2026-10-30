@@ -1,0 +1,72 @@
+﻿[
+  {
+    "Id": 1,
+    "Name": "Ahmed Ali",
+    "Email": "ahmed.ali@example.com",
+    "Isactive": true,
+    "Loyaltytier": "Gold"
+  },
+  {
+    "Id": 2,
+    "Name": "Sara Mohamed",
+    "Email": "sara.mohamed@example.com",
+    "Isactive": true,
+    "Loyaltytier": "Silver"
+  },
+  {
+    "Id": 3,
+    "Name": "Omar Hassan",
+    "Email": "omar.hassan@example.com",
+    "Isactive": true,
+    "Loyaltytier": "Bronze"
+  },
+  {
+    "Id": 4,
+    "Name": "Mona Ibrahim",
+    "Email": "mona.ibrahim@example.com",
+    "Isactive": false,
+    "Loyaltytier": "Silver"
+  },
+  {
+    "Id": 5,
+    "Name": "Youssef Adel",
+    "Email": "youssef.adel@example.com",
+    "Isactive": true,
+    "Loyaltytier": "Gold"
+  },
+  {
+    "Id": 6,
+    "Name": "Nour Khaled",
+    "Email": "nour.khaled@example.com",
+    "Isactive": true,
+    "Loyaltytier": "Bronze"
+  },
+  {
+    "Id": 7,
+    "Name": "Karim Samir",
+    "Email": "karim.samir@example.com",
+    "Isactive": true,
+    "Loyaltytier": "Silver"
+  },
+  {
+    "Id": 8,
+    "Name": "Laila Mahmoud",
+    "Email": "laila.mahmoud@example.com",
+    "Isactive": true,
+    "Loyaltytier": "Gold"
+  },
+  {
+    "Id": 9,
+    "Name": "Hassan Tarek",
+    "Email": "hassan.tarek@example.com",
+    "Isactive": true,
+    "Loyaltytier": "Bronze"
+  },
+  {
+    "Id": 10,
+    "Name": "Dina Fathy",
+    "Email": "dina.fathy@example.com",
+    "Isactive": true,
+    "Loyaltytier": "Silver"
+  }
+]

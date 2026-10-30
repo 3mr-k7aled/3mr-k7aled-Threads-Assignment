@@ -1,0 +1,47 @@
+﻿[
+  {
+    "Id": 1,
+    "CustomerId": 1,
+    "Items": [
+      {
+        "ProductId": 1,
+        "Quantity": 1,
+        "UnitPrice": 0
+      },
+      {
+        "ProductId": 3,
+        "Quantity": 1,
+        "UnitPrice": 0
+      }
+    ],
+    "CouponCode": "SAVE10",
+    "SubTotal": 0,
+    "Discount": 0,
+    "ShippingCost": 0,
+    "TotalAmount": 0,
+    "Status": "Validated",
+    "CreatedAt": "2026-10-31T00:35:37.6931315+02:00",
+    "FailureReason": null,
+    "TransactionId": null
+  },
+  {
+    "Id": 2,
+    "CustomerId": 2,
+    "Items": [
+      {
+        "ProductId": 2,
+        "Quantity": 1,
+        "UnitPrice": 0
+      }
+    ],
+    "CouponCode": null,
+    "SubTotal": 0,
+    "Discount": 0,
+    "ShippingCost": 0,
+    "TotalAmount": 0,
+    "Status": "Validated",
+    "CreatedAt": "2026-10-31T00:35:37.6931318+02:00",
+    "FailureReason": null,
+    "TransactionId": null
+  }
+]

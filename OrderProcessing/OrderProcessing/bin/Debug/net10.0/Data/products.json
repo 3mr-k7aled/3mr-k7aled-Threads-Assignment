@@ -1,0 +1,58 @@
+﻿[
+  {
+    "Id": 1,
+    "Name": "Laptop",
+    "Price": 1200.00,
+    "Stockquantity": 10,
+    "WeightKg": 2.2
+  },
+  {
+    "Id": 2,
+    "Name": "Smartphone",
+    "Price": 800.00,
+    "Stockquantity": 15,
+    "WeightKg": 0.4
+  },
+  {
+    "Id": 3,
+    "Name": "Wireless Mouse",
+    "Price": 25.00,
+    "Stockquantity": 2,
+    "WeightKg": 0.1
+  },
+  {
+    "Id": 4,
+    "Name": "Mechanical Keyboard",
+    "Price": 90.00,
+    "Stockquantity": 1,
+    "WeightKg": 0.9
+  },
+  {
+    "Id": 5,
+    "Name": "USB-C Hub",
+    "Price": 45.00,
+    "Stockquantity": 30,
+    "WeightKg": 0.2
+  },
+  {
+    "Id": 6,
+    "Name": "Headphones",
+    "Price": 150.00,
+    "Stockquantity": 12,
+    "WeightKg": 0.3
+  },
+  {
+    "Id": 7,
+    "Name": "27\u0022 Monitor",
+    "Price": 350.00,
+    "Stockquantity": 6,
+    "WeightKg": 5.0
+  },
+  {
+    "Id": 8,
+    "Name": "Webcam",
+    "Price": 70.00,
+    "Stockquantity": 20,
+    "WeightKg": 0.2
+  }
+]
