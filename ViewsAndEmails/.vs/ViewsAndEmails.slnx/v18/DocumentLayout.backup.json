@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\de\\Desktop\\ViewsAndEmails\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEC9952-C461-465C-94B6-B3114021F40F}|ViewsAndEmails\\ViewsAndEmails.csproj|c:\\users\\de\\desktop\\viewsandemails\\viewsandemails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEC9952-C461-465C-94B6-B3114021F40F}|ViewsAndEmails\\ViewsAndEmails.csproj|solutionrelative:viewsandemails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEC9952-C461-465C-94B6-B3114021F40F}|ViewsAndEmails\\ViewsAndEmails.csproj|c:\\users\\de\\desktop\\viewsandemails\\viewsandemails\\answer.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{CCEC9952-C461-465C-94B6-B3114021F40F}|ViewsAndEmails\\ViewsAndEmails.csproj|solutionrelative:viewsandemails\\answer.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEC9952-C461-465C-94B6-B3114021F40F}|ViewsAndEmails\\ViewsAndEmails.csproj|c:\\users\\de\\desktop\\viewsandemails\\viewsandemails\\analyticsandemailjobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEC9952-C461-465C-94B6-B3114021F40F}|ViewsAndEmails\\ViewsAndEmails.csproj|solutionrelative:viewsandemails\\analyticsandemailjobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ANSWER.md",
+              "DocumentMoniker": "C:\\Users\\de\\Desktop\\ViewsAndEmails\\ViewsAndEmails\\ANSWER.md",
+              "RelativeDocumentMoniker": "ViewsAndEmails\\ANSWER.md",
+              "ToolTip": "C:\\Users\\de\\Desktop\\ViewsAndEmails\\ViewsAndEmails\\ANSWER.md",
+              "RelativeToolTip": "ViewsAndEmails\\ANSWER.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-29T17:38:56.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnalyticsAndEmailJobs.cs",
+              "DocumentMoniker": "C:\\Users\\de\\Desktop\\ViewsAndEmails\\ViewsAndEmails\\AnalyticsAndEmailJobs.cs",
+              "RelativeDocumentMoniker": "ViewsAndEmails\\AnalyticsAndEmailJobs.cs",
+              "ToolTip": "C:\\Users\\de\\Desktop\\ViewsAndEmails\\ViewsAndEmails\\AnalyticsAndEmailJobs.cs",
+              "RelativeToolTip": "ViewsAndEmails\\AnalyticsAndEmailJobs.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvy4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T17:36:28.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\de\\Desktop\\ViewsAndEmails\\ViewsAndEmails\\Program.cs",
+              "RelativeDocumentMoniker": "ViewsAndEmails\\Program.cs",
+              "ToolTip": "C:\\Users\\de\\Desktop\\ViewsAndEmails\\ViewsAndEmails\\Program.cs",
+              "RelativeToolTip": "ViewsAndEmails\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T17:32:29.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

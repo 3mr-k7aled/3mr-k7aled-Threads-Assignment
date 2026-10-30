@@ -1,2 +1,4 @@
-# 3mr-k7aled-Threads-Assignment
-Assignment repo for assignment/1-8 (Threads Assignment)
+Amr khaled mansour 
+.NET group 3
+I know that i didn't complete last part in assignment ... but i will complete it later i another branch 
+iam sorry but iam preparing for mid exams and i want to starting unit test assignment 🥲

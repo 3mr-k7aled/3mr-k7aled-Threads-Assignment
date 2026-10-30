@@ -1,0 +1,15 @@
+C:\Users\de\Desktop\OrderProcessing\OrderProcessing\bin\Debug\net10.0\OrderProcessing.exe
+C:\Users\de\Desktop\OrderProcessing\OrderProcessing\bin\Debug\net10.0\OrderProcessing.deps.json
+C:\Users\de\Desktop\OrderProcessing\OrderProcessing\bin\Debug\net10.0\OrderProcessing.runtimeconfig.json
+C:\Users\de\Desktop\OrderProcessing\OrderProcessing\bin\Debug\net10.0\OrderProcessing.dll
+C:\Users\de\Desktop\OrderProcessing\OrderProcessing\bin\Debug\net10.0\OrderProcessing.pdb
+C:\Users\de\Desktop\OrderProcessing\OrderProcessing\obj\Debug\net10.0\OrderProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\de\Desktop\OrderProcessing\OrderProcessing\obj\Debug\net10.0\OrderProcessing.AssemblyInfoInputs.cache
+C:\Users\de\Desktop\OrderProcessing\OrderProcessing\obj\Debug\net10.0\OrderProcessing.AssemblyInfo.cs
+C:\Users\de\Desktop\OrderProcessing\OrderProcessing\obj\Debug\net10.0\OrderProcessing.csproj.CoreCompileInputs.cache
+C:\Users\de\Desktop\OrderProcessing\OrderProcessing\obj\Debug\net10.0\OrderProcessing.dll
+C:\Users\de\Desktop\OrderProcessing\OrderProcessing\obj\Debug\net10.0\refint\OrderProcessing.dll
+C:\Users\de\Desktop\OrderProcessing\OrderProcessing\obj\Debug\net10.0\OrderProcessing.pdb
+C:\Users\de\Desktop\OrderProcessing\OrderProcessing\obj\Debug\net10.0\OrderProcessing.genruntimeconfig.cache
+C:\Users\de\Desktop\OrderProcessing\OrderProcessing\obj\Debug\net10.0\ref\OrderProcessing.dll
+C:\Users\de\Desktop\OrderProcessing\OrderProcessing\obj\Debug\net10.0\OrderPro.3C1BC4D2.Up2Date

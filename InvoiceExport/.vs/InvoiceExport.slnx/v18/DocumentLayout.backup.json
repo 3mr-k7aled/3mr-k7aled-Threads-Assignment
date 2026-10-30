@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\de\\Desktop\\InvoiceExport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5CFF56-C6FB-4DC8-A424-BF0C4D424551}|InvoiceExport\\InvoiceExport.csproj|c:\\users\\de\\desktop\\invoiceexport\\invoiceexport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC5CFF56-C6FB-4DC8-A424-BF0C4D424551}|InvoiceExport\\InvoiceExport.csproj|solutionrelative:invoiceexport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5CFF56-C6FB-4DC8-A424-BF0C4D424551}|InvoiceExport\\InvoiceExport.csproj|c:\\users\\de\\desktop\\invoiceexport\\invoiceexport\\answer.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{AC5CFF56-C6FB-4DC8-A424-BF0C4D424551}|InvoiceExport\\InvoiceExport.csproj|solutionrelative:invoiceexport\\answer.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5CFF56-C6FB-4DC8-A424-BF0C4D424551}|InvoiceExport\\InvoiceExport.csproj|c:\\users\\de\\desktop\\invoiceexport\\invoiceexport\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC5CFF56-C6FB-4DC8-A424-BF0C4D424551}|InvoiceExport\\InvoiceExport.csproj|solutionrelative:invoiceexport\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5CFF56-C6FB-4DC8-A424-BF0C4D424551}|InvoiceExport\\InvoiceExport.csproj|c:\\users\\de\\desktop\\invoiceexport\\invoiceexport\\orderdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC5CFF56-C6FB-4DC8-A424-BF0C4D424551}|InvoiceExport\\InvoiceExport.csproj|solutionrelative:invoiceexport\\orderdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5CFF56-C6FB-4DC8-A424-BF0C4D424551}|InvoiceExport\\InvoiceExport.csproj|c:\\users\\de\\desktop\\invoiceexport\\invoiceexport\\invoicefilewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC5CFF56-C6FB-4DC8-A424-BF0C4D424551}|InvoiceExport\\InvoiceExport.csproj|solutionrelative:invoiceexport\\invoicefilewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5CFF56-C6FB-4DC8-A424-BF0C4D424551}|InvoiceExport\\InvoiceExport.csproj|c:\\users\\de\\desktop\\invoiceexport\\invoiceexport\\customerfilestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC5CFF56-C6FB-4DC8-A424-BF0C4D424551}|InvoiceExport\\InvoiceExport.csproj|solutionrelative:invoiceexport\\customerfilestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5CFF56-C6FB-4DC8-A424-BF0C4D424551}|InvoiceExport\\InvoiceExport.csproj|c:\\users\\de\\desktop\\invoiceexport\\invoiceexport\\invoiceexportservice.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC5CFF56-C6FB-4DC8-A424-BF0C4D424551}|InvoiceExport\\InvoiceExport.csproj|solutionrelative:invoiceexport\\invoiceexportservice.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Answer.md",
+              "DocumentMoniker": "C:\\Users\\de\\Desktop\\InvoiceExport\\InvoiceExport\\Answer.md",
+              "RelativeDocumentMoniker": "InvoiceExport\\Answer.md",
+              "ToolTip": "C:\\Users\\de\\Desktop\\InvoiceExport\\InvoiceExport\\Answer.md",
+              "RelativeToolTip": "InvoiceExport\\Answer.md",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-27T22:39:05.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\de\\Desktop\\InvoiceExport\\InvoiceExport\\Models.cs",
+              "RelativeDocumentMoniker": "InvoiceExport\\Models.cs",
+              "ToolTip": "C:\\Users\\de\\Desktop\\InvoiceExport\\InvoiceExport\\Models.cs",
+              "RelativeToolTip": "InvoiceExport\\Models.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T22:36:40.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InvoiceExportService.cs.cs",
+              "DocumentMoniker": "C:\\Users\\de\\Desktop\\InvoiceExport\\InvoiceExport\\InvoiceExportService.cs.cs",
+              "RelativeDocumentMoniker": "InvoiceExport\\InvoiceExportService.cs.cs",
+              "ToolTip": "C:\\Users\\de\\Desktop\\InvoiceExport\\InvoiceExport\\InvoiceExportService.cs.cs",
+              "RelativeToolTip": "InvoiceExport\\InvoiceExportService.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T22:31:09.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvoiceFileWriter.cs",
+              "DocumentMoniker": "C:\\Users\\de\\Desktop\\InvoiceExport\\InvoiceExport\\InvoiceFileWriter.cs",
+              "RelativeDocumentMoniker": "InvoiceExport\\InvoiceFileWriter.cs",
+              "ToolTip": "C:\\Users\\de\\Desktop\\InvoiceExport\\InvoiceExport\\InvoiceFileWriter.cs",
+              "RelativeToolTip": "InvoiceExport\\InvoiceFileWriter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T22:27:36.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerFileStore.cs",
+              "DocumentMoniker": "C:\\Users\\de\\Desktop\\InvoiceExport\\InvoiceExport\\CustomerFileStore.cs",
+              "RelativeDocumentMoniker": "InvoiceExport\\CustomerFileStore.cs",
+              "ToolTip": "C:\\Users\\de\\Desktop\\InvoiceExport\\InvoiceExport\\CustomerFileStore.cs",
+              "RelativeToolTip": "InvoiceExport\\CustomerFileStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T22:25:34.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\de\\Desktop\\InvoiceExport\\InvoiceExport\\OrderDatabase.cs",
+              "RelativeDocumentMoniker": "InvoiceExport\\OrderDatabase.cs",
+              "ToolTip": "C:\\Users\\de\\Desktop\\InvoiceExport\\InvoiceExport\\OrderDatabase.cs",
+              "RelativeToolTip": "InvoiceExport\\OrderDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T22:20:55.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\de\\Desktop\\InvoiceExport\\InvoiceExport\\Program.cs",
+              "RelativeDocumentMoniker": "InvoiceExport\\Program.cs",
+              "ToolTip": "C:\\Users\\de\\Desktop\\InvoiceExport\\InvoiceExport\\Program.cs",
+              "RelativeToolTip": "InvoiceExport\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T22:19:17.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

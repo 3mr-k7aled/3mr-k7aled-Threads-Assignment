@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\de\\Desktop\\Menu_view\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13C60AB0-D469-4B5D-A356-CBF7491F6377}|Menu_view\\Menu_view.csproj|c:\\users\\de\\desktop\\menu_view\\menu_view\\answer.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{13C60AB0-D469-4B5D-A356-CBF7491F6377}|Menu_view\\Menu_view.csproj|solutionrelative:menu_view\\answer.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C60AB0-D469-4B5D-A356-CBF7491F6377}|Menu_view\\Menu_view.csproj|c:\\users\\de\\desktop\\menu_view\\menu_view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C60AB0-D469-4B5D-A356-CBF7491F6377}|Menu_view\\Menu_view.csproj|solutionrelative:menu_view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C60AB0-D469-4B5D-A356-CBF7491F6377}|Menu_view\\Menu_view.csproj|c:\\users\\de\\desktop\\menu_view\\menu_view\\menuviewcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C60AB0-D469-4B5D-A356-CBF7491F6377}|Menu_view\\Menu_view.csproj|solutionrelative:menu_view\\menuviewcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ANSWER.md",
+              "DocumentMoniker": "C:\\Users\\de\\Desktop\\Menu_view\\Menu_view\\ANSWER.md",
+              "RelativeDocumentMoniker": "Menu_view\\ANSWER.md",
+              "ToolTip": "C:\\Users\\de\\Desktop\\Menu_view\\Menu_view\\ANSWER.md",
+              "RelativeToolTip": "Menu_view\\ANSWER.md",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEQAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-28T22:18:05.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuViewCounter.cs",
+              "DocumentMoniker": "C:\\Users\\de\\Desktop\\Menu_view\\Menu_view\\MenuViewCounter.cs",
+              "RelativeDocumentMoniker": "Menu_view\\MenuViewCounter.cs",
+              "ToolTip": "C:\\Users\\de\\Desktop\\Menu_view\\Menu_view\\MenuViewCounter.cs",
+              "RelativeToolTip": "Menu_view\\MenuViewCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T22:11:37.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\de\\Desktop\\Menu_view\\Menu_view\\Program.cs",
+              "RelativeDocumentMoniker": "Menu_view\\Program.cs",
+              "ToolTip": "C:\\Users\\de\\Desktop\\Menu_view\\Menu_view\\Program.cs",
+              "RelativeToolTip": "Menu_view\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T22:11:04.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

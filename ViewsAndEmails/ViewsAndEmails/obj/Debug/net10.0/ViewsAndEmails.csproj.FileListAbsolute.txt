@@ -1,0 +1,15 @@
+C:\Users\de\Desktop\ViewsAndEmails\ViewsAndEmails\bin\Debug\net10.0\ViewsAndEmails.exe
+C:\Users\de\Desktop\ViewsAndEmails\ViewsAndEmails\bin\Debug\net10.0\ViewsAndEmails.deps.json
+C:\Users\de\Desktop\ViewsAndEmails\ViewsAndEmails\bin\Debug\net10.0\ViewsAndEmails.runtimeconfig.json
+C:\Users\de\Desktop\ViewsAndEmails\ViewsAndEmails\bin\Debug\net10.0\ViewsAndEmails.dll
+C:\Users\de\Desktop\ViewsAndEmails\ViewsAndEmails\bin\Debug\net10.0\ViewsAndEmails.pdb
+C:\Users\de\Desktop\ViewsAndEmails\ViewsAndEmails\obj\Debug\net10.0\ViewsAndEmails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\de\Desktop\ViewsAndEmails\ViewsAndEmails\obj\Debug\net10.0\ViewsAndEmails.AssemblyInfoInputs.cache
+C:\Users\de\Desktop\ViewsAndEmails\ViewsAndEmails\obj\Debug\net10.0\ViewsAndEmails.AssemblyInfo.cs
+C:\Users\de\Desktop\ViewsAndEmails\ViewsAndEmails\obj\Debug\net10.0\ViewsAndEmails.csproj.CoreCompileInputs.cache
+C:\Users\de\Desktop\ViewsAndEmails\ViewsAndEmails\obj\Debug\net10.0\ViewsAndEmails.dll
+C:\Users\de\Desktop\ViewsAndEmails\ViewsAndEmails\obj\Debug\net10.0\refint\ViewsAndEmails.dll
+C:\Users\de\Desktop\ViewsAndEmails\ViewsAndEmails\obj\Debug\net10.0\ViewsAndEmails.pdb
+C:\Users\de\Desktop\ViewsAndEmails\ViewsAndEmails\obj\Debug\net10.0\ViewsAndEmails.genruntimeconfig.cache
+C:\Users\de\Desktop\ViewsAndEmails\ViewsAndEmails\obj\Debug\net10.0\ref\ViewsAndEmails.dll
+C:\Users\de\Desktop\ViewsAndEmails\ViewsAndEmails\obj\Debug\net10.0\ViewsAnd.DCC8A48A.Up2Date
